@@ -1,6 +1,6 @@
 
 li.dev-item {
-    background: #FFF;
+    background: #303036;
     box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
     border-radius: 2px;
     padding: 20px;
@@ -27,7 +27,7 @@ li.dev-item header .user-info {
 .user-info strong {
     display: block;
     font-size: 16px;
-    color: #333;
+    color: #acacac;
 
 }
 
@@ -45,11 +45,11 @@ li.dev-item p {
 }
 
 li.dev-item a {
-    color: #8e4dff;
+    color: #1ed760;
     font-size: 14px;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 li.dev-item a:hover {
-    color: #5a2ea6;
+    color: #007535;
 }
