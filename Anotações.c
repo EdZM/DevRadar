@@ -60,8 +60,32 @@ DIA 3:
 	- a api esta executando no localhost: 3333 e o front end, no localhost: 3000, logo haverá um bloqueio
 		-> yarn add cors( cross origin resource sharing ) para evitar o bloqueio
 
+====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+DIA 4:
 
+	React Native:
+
+		-Surgimento por volta de 2015
+
+		-Abordagem tradicional:
+			- a aplicação é feita pra IOS e outra é feita pra Android
+			- torna o processo repetitivo tanto para criação quanto para eventuais alterações
+
+		-Abordagem do React Native:
+			- todo o código é feito em JavaScript 
+			- o código não é convertido em código nativo, e em vez disso, o dispositivo passa a 
+			  entender o código JS e a interface gerada é totalmente nativa
+			- no react Native , há o javaScript core, um framework que dá o entendimento de JS para o SO do mobile			
+
+		- Expo: 
+			- framework do react native que disponibiliza ferramentas que permitem usar grande parte das funcionalidades do celular, como camera, sensores, mapas, ...
+			- sem ele é necessario instalar uma serie de dependencias, feramentas de desenvolvimento (como Android studio, Xcode), algo muito penoso
+			- util para aplicações mais fechadas e restritas, que nao vão crescer depois
+
+		- instalação yarn global add expo-cli
+
+		- PWA: Progressive Web Apps
 
 
 
