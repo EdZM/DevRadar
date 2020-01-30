@@ -4,8 +4,8 @@
 
 ### Para testar: 
   - Instale o gitpod;
-  - Recarregue essa página e clique no botão [Gitpod](https://gitpod.io/#https://github.com/EdZM/DevRadar) ao lado de [clone or download]()
-  - Na aba que abrir, vá no terminal: 
+  - Recarregue essa página e clique no botão [Gitpod]() ao lado de [Clone or Download]() ou [nesse link](https://gitpod.io/#https://github.com/EdZM/DevRadar)
+  - Na aba que abrir, vá no terminal na parte inferior da tela 
   - Para testar o front end: 
     ```
     cd web/
