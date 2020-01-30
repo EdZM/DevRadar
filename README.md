@@ -25,7 +25,7 @@
     ```
     
     - instalar expo no celular via Play Store
-    - com o expo aberto no celular, escaneie o QR code que aparecer no terminal após o comando 'yarn start'
+    - com o expo aberto no celular, escaneie o QR code que aparecer no terminal após o comando `yarn start`
     
   - Para testar o back end: 
     
