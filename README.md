@@ -10,4 +10,4 @@
   - cors,
   - axios,
   - Insomnia,
-  - MongoDB Compass
+  - MongoDB Compass,
