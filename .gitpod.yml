@@ -1,3 +1,7 @@
+ports:
+  - port: 3000
+  - port: 3333
+
 tasks:
   - init: cd backend/
     command: yarn dev
