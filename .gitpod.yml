@@ -1,4 +1,4 @@
 tasks:
   - before: cd backend
-  - init: yarn add 
-    command: yarn dev
+  - init: yarn dev
+    
